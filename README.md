@@ -10,9 +10,30 @@ Summary (from [ANR project page](https://anr.fr/Project-ANR-21-CE33-0002)):
 
 ---
 
+## People
+
+- Romain Vuillemot - assistant professor [Ecole Centrale de Lyon / LIRIS](https://liris.cnrs.fr)
+- Théo Jaunet - post-doc [Ecole Centrale de Lyon / LIRIS](https://liris.cnrs.fr)
+
+Past:
+- Jean-Charles Noirot Ferrand (intern)
+- Nicolas Pengov (intern)
+
+## Software
+
+[pipeoptz](https://github.com/centralelyon/pipeoptz/tree/main): A Python library for optimization of video processing pipelines
+
+[pixel-mark](https://github.com/centralelyon/pixel-mark): A JavaScript library to create visualizations based on images
+
+## Publications
+
+
+
+
+
 <p align="center">
-  <img src="figures/logo-ecl.png" alt="ECL" width="22%"/>
-  <img src="figures/logo-anr.png" alt="ANR" width="22%"/>
-  <img src="figures/logo-inria.png" alt="Inria" width="22%"/>
-  <img src="figures/logo-liris.png" alt="LIRIS" width="22%"/>
+  <a href="https://www.ec-lyon.fr"><img src="figures/logo-ecl.png" alt="ECL" width="22%"/></a>
+  <a href="https://anr.fr/"><img src="figures/logo-anr.png" alt="ANR" width="22%"/></a>
+  <a href="https://www.inria.fr"><img src="figures/logo-inria.png" alt="Inria" width="22%"/></a>
+  <a href="https://liris.cnrs.fr"><img src="figures/logo-liris.png" alt="LIRIS" width="22%"/></a>
 </p>
