@@ -25,6 +25,8 @@ Past:
 
 [pixel-mark](https://github.com/centralelyon/pixel-mark): A JavaScript library to create visualizations based on images
 
+[descript-sketch](https://github.com/centralelyon/descript-sketches): A pipeline to extract hand-written marks and glyphs
+
 ## Publications
 
 
