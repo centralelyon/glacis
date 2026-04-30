@@ -21,11 +21,19 @@ Past:
 
 ## Software
 
-[pipeoptz](https://github.com/centralelyon/pipeoptz/tree/main): A Python library for optimization of video processing pipelines
+[pipeoptz](https://github.com/centralelyon/pipeoptz/tree/main): A Python library for optimization of video processing pipelines.
 
-[pixel-mark](https://github.com/centralelyon/pixel-mark): A JavaScript library to create visualizations based on images
+[pixel-mark](https://github.com/centralelyon/pixel-mark): A JavaScript library to create visualizations based on images.
 
-[descript-sketch](https://github.com/centralelyon/descript-sketches): A pipeline to extract hand-written marks and glyphs
+[descript](https://github.com/centralelyon/descript-sketches): A web interface to reverse-engineer data, marks, and encoding of visualization as raster images.
+
+[descript-sketch](https://github.com/centralelyon/descript-sketches): A web interface to extract hand-written marks and glyphs.
+
+[idk](https://github.com/centralelyon/idk): A web interface to associate pixel-marks to timelines and trajectories.
+
+[Trajecstories](https://github.com/centralelyon/trajectoryViewer): A web interface to visulalize a gps trajectory, and custom it's style, labels and waypoints.
+
+[Trajecstories-slit](https://theo-jaunet.github.io/trajectoyFov/): A web interface to produce summary stripes from first-person videos and associate them to trajectories.
 
 ## Publications
 
