@@ -40,7 +40,7 @@ Past:
 
 ## Credits
 
-ANR Grant [Project-ANR-21-CE33-0002]](https://anr.fr/Project-ANR-21-CE33-0002)
+ANR Grant [Project-ANR-21-CE33-0002](https://anr.fr/Project-ANR-21-CE33-0002)
 
 <p align="center">
   <a href="https://www.ec-lyon.fr"><img src="figures/logo-ecl.png" alt="ECL" width="22%"/></a>
