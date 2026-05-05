@@ -12,11 +12,11 @@ Summary (from [ANR project page](https://anr.fr/Project-ANR-21-CE33-0002)):
 
 ## People
 
-- Romain Vuillemot - assistant professor [Ecole Centrale de Lyon / LIRIS](https://liris.cnrs.fr)
-- Théo Jaunet - post-doc [Ecole Centrale de Lyon / LIRIS](https://liris.cnrs.fr)
+- Romain Vuillemot - assistant professor [Ecole Centrale de Lyon / LIRIS](https://romain.vuillemot.net/)
+- Théo Jaunet - post-doc [Ecole Centrale de Lyon / LIRIS](https://theo-jaunet.github.io/)
 
 Past:
-- Jean-Charles Noirot Ferrand (intern)
+- [Jean-Charles Noirot Ferrand](https://jcnf.me/) (intern)
 - Nicolas Pengov (intern)
 
 ## Software
@@ -25,7 +25,7 @@ Past:
 
 [pixel-mark](https://github.com/centralelyon/pixel-mark): A JavaScript library to create visualizations based on images.
 
-[descript](https://github.com/centralelyon/descript-sketches): A web interface to reverse-engineer data, marks, and encoding of visualization as raster images.
+[descript-pipeoptz](https://github.com/centralelyon/descript-pipeoptz): A web interface to reverse-engineer data, marks, and encoding of visualization as raster images.
 
 [descript-sketch](https://github.com/centralelyon/descript-sketches): A web interface to extract hand-written marks and glyphs.
 
@@ -38,8 +38,9 @@ Past:
 ## Publications
 
 
+## Credits
 
-
+ANR Grant [Project-ANR-21-CE33-0002]](https://anr.fr/Project-ANR-21-CE33-0002)
 
 <p align="center">
   <a href="https://www.ec-lyon.fr"><img src="figures/logo-ecl.png" alt="ECL" width="22%"/></a>
